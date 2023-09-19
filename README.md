@@ -19,7 +19,7 @@ I have chosen to use Andy Warhol. Perosnally i like the use of his coolours, hig
 - https://www.youtube.com/watch?v=Nrsy6vF7rSw
 - https://www.youtube.com/watch?v=Mng57Tj18pc
 - https://www.youtube.com/watch?v=tX-6CMNnT64
-
+- https://github.com/junyanz/CycleGAN
 ### Dataset
  - https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time
  I have specifically used the "Andy Warhol" set of pictures.
